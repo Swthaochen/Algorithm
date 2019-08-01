@@ -1,1 +1,5 @@
 segment_tree1.cpp是实现的一个基本的线段树，主要涉及到线段树的插入和查询和修改某个值的功能。
+
+segment_tree2.cpp是对第一个线段树进行的改进，主要是涉及区间修改。
+
+segment_tree3.cpp是set操作的时候线段树的改进。
