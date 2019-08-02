@@ -1,2 +1,3 @@
-suffix_string1.cpp是实现的一个后缀数组的排序，主要是更具输入的字符串进行后缀数组排序。
+suffix_string1.cpp是实现的一个后缀数组的排序，主要是根据输入的字符串进行后缀数组排序。
 
+suffix_string2.cpp是实现的一个后缀数组的LCP问题，主要是由后缀数组的排序算法利用rank和sa数组求得的height数组。
